@@ -1,0 +1,78 @@
+Chave: 0 | Encontrada: Sim | Acessos: 30753 | Comparações: 24755 | Tempo: 0.156375 segundos
+Chave: 100 | Encontrada: Sim | Acessos: 30760 | Comparações: 24762 | Tempo: 0.161002 segundos
+Chave: 200 | Encontrada: Sim | Acessos: 30760 | Comparações: 24762 | Tempo: 0.168702 segundos
+Chave: 300 | Encontrada: Sim | Acessos: 30762 | Comparações: 24764 | Tempo: 0.145547 segundos
+Chave: 400 | Encontrada: Sim | Acessos: 30756 | Comparações: 24758 | Tempo: 0.156160 segundos
+Chave: 500 | Encontrada: Sim | Acessos: 30758 | Comparações: 24760 | Tempo: 0.174792 segundos
+Chave: 600 | Encontrada: Sim | Acessos: 30053 | Comparações: 24055 | Tempo: 0.170994 segundos
+Chave: 700 | Encontrada: Sim | Acessos: 30051 | Comparações: 24053 | Tempo: 0.157579 segundos
+Chave: 800 | Encontrada: Sim | Acessos: 30059 | Comparações: 24061 | Tempo: 0.167787 segundos
+Chave: 900 | Encontrada: Sim | Acessos: 30051 | Comparações: 24053 | Tempo: 0.161027 segundos
+Chave: 1000 | Encontrada: Sim | Acessos: 30050 | Comparações: 24052 | Tempo: 0.175325 segundos
+Chave: 1100 | Encontrada: Sim | Acessos: 30054 | Comparações: 24056 | Tempo: 0.171848 segundos
+Chave: 1200 | Encontrada: Sim | Acessos: 31707 | Comparações: 25709 | Tempo: 0.174676 segundos
+Chave: 1300 | Encontrada: Sim | Acessos: 31703 | Comparações: 25705 | Tempo: 0.163822 segundos
+Chave: 1400 | Encontrada: Sim | Acessos: 31710 | Comparações: 25712 | Tempo: 0.187891 segundos
+Chave: 1500 | Encontrada: Sim | Acessos: 31711 | Comparações: 25713 | Tempo: 0.175719 segundos
+Chave: 1600 | Encontrada: Sim | Acessos: 31709 | Comparações: 25711 | Tempo: 0.177523 segundos
+Chave: 1700 | Encontrada: Sim | Acessos: 31091 | Comparações: 25093 | Tempo: 0.167264 segundos
+Chave: 1800 | Encontrada: Sim | Acessos: 31090 | Comparações: 25092 | Tempo: 0.153516 segundos
+Chave: 1900 | Encontrada: Sim | Acessos: 31092 | Comparações: 25094 | Tempo: 0.141625 segundos
+Quantidade: 2000
+Situação: 1
+Média de Acessos: 30834.00
+Média de Comparações: 24836.00
+Tempo Médio: 0.165459 segundos
+---------------------------
+Chave: 0 | Encontrada: Sim | Acessos: 30444 | Comparações: 24446 | Tempo: 0.166176 segundos
+Chave: 100 | Encontrada: Sim | Acessos: 30443 | Comparações: 24445 | Tempo: 0.186808 segundos
+Chave: 200 | Encontrada: Sim | Acessos: 30450 | Comparações: 24452 | Tempo: 0.180059 segundos
+Chave: 300 | Encontrada: Sim | Acessos: 30457 | Comparações: 24459 | Tempo: 0.188892 segundos
+Chave: 400 | Encontrada: Sim | Acessos: 30455 | Comparações: 24457 | Tempo: 0.203787 segundos
+Chave: 500 | Encontrada: Sim | Acessos: 30458 | Comparações: 24460 | Tempo: 0.172691 segundos
+Chave: 600 | Encontrada: Sim | Acessos: 30982 | Comparações: 24984 | Tempo: 0.183372 segundos
+Chave: 700 | Encontrada: Sim | Acessos: 30985 | Comparações: 24987 | Tempo: 0.243215 segundos
+Chave: 800 | Encontrada: Sim | Acessos: 30978 | Comparações: 24980 | Tempo: 0.212264 segundos
+Chave: 900 | Encontrada: Sim | Acessos: 30984 | Comparações: 24986 | Tempo: 0.161549 segundos
+Chave: 1000 | Encontrada: Sim | Acessos: 30979 | Comparações: 24981 | Tempo: 0.165372 segundos
+Chave: 1100 | Encontrada: Sim | Acessos: 28956 | Comparações: 22958 | Tempo: 0.165148 segundos
+Chave: 1200 | Encontrada: Sim | Acessos: 28949 | Comparações: 22951 | Tempo: 0.135031 segundos
+Chave: 1300 | Encontrada: Sim | Acessos: 28952 | Comparações: 22954 | Tempo: 0.139782 segundos
+Chave: 1400 | Encontrada: Sim | Acessos: 28948 | Comparações: 22950 | Tempo: 0.233322 segundos
+Chave: 1500 | Encontrada: Sim | Acessos: 28953 | Comparações: 22955 | Tempo: 0.260464 segundos
+Chave: 1600 | Encontrada: Sim | Acessos: 28953 | Comparações: 22955 | Tempo: 0.233021 segundos
+Chave: 1700 | Encontrada: Sim | Acessos: 29303 | Comparações: 23305 | Tempo: 0.195585 segundos
+Chave: 1800 | Encontrada: Sim | Acessos: 29302 | Comparações: 23304 | Tempo: 0.254051 segundos
+Chave: 1900 | Encontrada: Sim | Acessos: 29301 | Comparações: 23303 | Tempo: 0.257031 segundos
+Quantidade: 2000
+Situação: 2
+Média de Acessos: 29961.60
+Média de Comparações: 23963.60
+Tempo Médio: 0.196881 segundos
+---------------------------
+Chave: 0 | Encontrada: Sim | Acessos: 31842 | Comparações: 25844 | Tempo: 0.179889 segundos
+Chave: 100 | Encontrada: Sim | Acessos: 31846 | Comparações: 25848 | Tempo: 0.237600 segundos
+Chave: 200 | Encontrada: Sim | Acessos: 29555 | Comparações: 23557 | Tempo: 0.178872 segundos
+Chave: 300 | Encontrada: Sim | Acessos: 29556 | Comparações: 23558 | Tempo: 0.180550 segundos
+Chave: 400 | Encontrada: Sim | Acessos: 29553 | Comparações: 23555 | Tempo: 0.163070 segundos
+Chave: 500 | Encontrada: Sim | Acessos: 29555 | Comparações: 23557 | Tempo: 0.251558 segundos
+Chave: 600 | Encontrada: Sim | Acessos: 29557 | Comparações: 23559 | Tempo: 0.169280 segundos
+Chave: 700 | Encontrada: Sim | Acessos: 29126 | Comparações: 23128 | Tempo: 0.149911 segundos
+Chave: 800 | Encontrada: Sim | Acessos: 29121 | Comparações: 23123 | Tempo: 0.154119 segundos
+Chave: 900 | Encontrada: Sim | Acessos: 29122 | Comparações: 23124 | Tempo: 0.164326 segundos
+Chave: 1000 | Encontrada: Sim | Acessos: 29125 | Comparações: 23127 | Tempo: 0.167659 segundos
+Chave: 1100 | Encontrada: Sim | Acessos: 29132 | Comparações: 23134 | Tempo: 0.199097 segundos
+Chave: 1200 | Encontrada: Sim | Acessos: 31213 | Comparações: 25215 | Tempo: 0.174196 segundos
+Chave: 1300 | Encontrada: Sim | Acessos: 31211 | Comparações: 25213 | Tempo: 0.214667 segundos
+Chave: 1400 | Encontrada: Sim | Acessos: 31208 | Comparações: 25210 | Tempo: 0.182621 segundos
+Chave: 1500 | Encontrada: Sim | Acessos: 31213 | Comparações: 25215 | Tempo: 0.150012 segundos
+Chave: 1600 | Encontrada: Sim | Acessos: 31213 | Comparações: 25215 | Tempo: 0.163758 segundos
+Chave: 1700 | Encontrada: Sim | Acessos: 31216 | Comparações: 25218 | Tempo: 0.170191 segundos
+Chave: 1800 | Encontrada: Sim | Acessos: 31942 | Comparações: 25944 | Tempo: 0.181199 segundos
+Chave: 1900 | Encontrada: Sim | Acessos: 31944 | Comparações: 25946 | Tempo: 0.189745 segundos
+Quantidade: 2000
+Situação: 3
+Média de Acessos: 30412.50
+Média de Comparações: 24414.50
+Tempo Médio: 0.181116 segundos
+---------------------------

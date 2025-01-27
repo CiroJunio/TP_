@@ -1,0 +1,78 @@
+Chave: 0 | Encontrada: Sim | Acessos: 20000 | Comparações: 14 | Tempo: 0.049192 segundos
+Chave: 1000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 0.031018 segundos
+Chave: 2000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 0.040225 segundos
+Chave: 3000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 0.033204 segundos
+Chave: 4000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 0.029740 segundos
+Chave: 5000 | Encontrada: Sim | Acessos: 20001 | Comparações: 2 | Tempo: 0.029270 segundos
+Chave: 6000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 0.029014 segundos
+Chave: 7000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 0.029204 segundos
+Chave: 8000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 0.029159 segundos
+Chave: 9000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 0.029051 segundos
+Chave: 10000 | Encontrada: Sim | Acessos: 20001 | Comparações: 1 | Tempo: 0.029477 segundos
+Chave: 11000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 0.030007 segundos
+Chave: 12000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 0.029815 segundos
+Chave: 13000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 0.035796 segundos
+Chave: 14000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 0.032520 segundos
+Chave: 15000 | Encontrada: Sim | Acessos: 20001 | Comparações: 2 | Tempo: 0.029463 segundos
+Chave: 16000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 0.029363 segundos
+Chave: 17000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 0.029268 segundos
+Chave: 18000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 0.030691 segundos
+Chave: 19000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 0.029033 segundos
+Quantidade: 20000
+Situação: 1
+Média de Acessos: 20000.95
+Média de Comparações: 11.75
+Tempo Médio: 0.031725 segundos
+---------------------------
+Chave: 0 | Encontrada: Sim | Acessos: 20000 | Comparações: 14 | Tempo: 5.859204 segundos
+Chave: 1000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 3.912207 segundos
+Chave: 2000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 3.877077 segundos
+Chave: 3000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 3.854771 segundos
+Chave: 4000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 3.909692 segundos
+Chave: 5000 | Encontrada: Sim | Acessos: 20001 | Comparações: 2 | Tempo: 3.513884 segundos
+Chave: 6000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 4.137829 segundos
+Chave: 7000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 3.898665 segundos
+Chave: 8000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 3.713042 segundos
+Chave: 9000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 3.925021 segundos
+Chave: 10000 | Encontrada: Sim | Acessos: 20001 | Comparações: 1 | Tempo: 3.587239 segundos
+Chave: 11000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 3.535792 segundos
+Chave: 12000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 4.082325 segundos
+Chave: 13000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 3.845156 segundos
+Chave: 14000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 3.737614 segundos
+Chave: 15000 | Encontrada: Sim | Acessos: 20001 | Comparações: 2 | Tempo: 3.752185 segundos
+Chave: 16000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 3.986157 segundos
+Chave: 17000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 3.943053 segundos
+Chave: 18000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 3.447890 segundos
+Chave: 19000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 3.258312 segundos
+Quantidade: 20000
+Situação: 2
+Média de Acessos: 20000.95
+Média de Comparações: 11.75
+Tempo Médio: 3.888856 segundos
+---------------------------
+Chave: 0 | Encontrada: Sim | Acessos: 20000 | Comparações: 14 | Tempo: 10.990166 segundos
+Chave: 1000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 4.042440 segundos
+Chave: 2000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 4.118717 segundos
+Chave: 3000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 4.270455 segundos
+Chave: 4000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 4.143646 segundos
+Chave: 5000 | Encontrada: Sim | Acessos: 20001 | Comparações: 2 | Tempo: 3.874646 segundos
+Chave: 6000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 3.788033 segundos
+Chave: 7000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 3.969730 segundos
+Chave: 8000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 3.732006 segundos
+Chave: 9000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 3.753548 segundos
+Chave: 10000 | Encontrada: Sim | Acessos: 20001 | Comparações: 1 | Tempo: 3.854132 segundos
+Chave: 11000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 3.869181 segundos
+Chave: 12000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 3.791387 segundos
+Chave: 13000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 3.566621 segundos
+Chave: 14000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 3.536248 segundos
+Chave: 15000 | Encontrada: Sim | Acessos: 20001 | Comparações: 2 | Tempo: 4.148738 segundos
+Chave: 16000 | Encontrada: Sim | Acessos: 20001 | Comparações: 12 | Tempo: 3.678937 segundos
+Chave: 17000 | Encontrada: Sim | Acessos: 20001 | Comparações: 15 | Tempo: 3.591854 segundos
+Chave: 18000 | Encontrada: Sim | Acessos: 20001 | Comparações: 14 | Tempo: 3.602998 segundos
+Chave: 19000 | Encontrada: Sim | Acessos: 20001 | Comparações: 13 | Tempo: 3.628166 segundos
+Quantidade: 20000
+Situação: 3
+Média de Acessos: 20000.95
+Média de Comparações: 11.75
+Tempo Médio: 4.197582 segundos
+---------------------------

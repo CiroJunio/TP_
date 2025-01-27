@@ -1,0 +1,78 @@
+Chave: 0 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001732 segundos
+Chave: 10 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001531 segundos
+Chave: 20 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001544 segundos
+Chave: 30 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001555 segundos
+Chave: 40 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001527 segundos
+Chave: 50 | Encontrada: Sim | Acessos: 200 | Comparações: 1515 | Tempo: 0.001502 segundos
+Chave: 60 | Encontrada: Sim | Acessos: 200 | Comparações: 1523 | Tempo: 0.001569 segundos
+Chave: 70 | Encontrada: Sim | Acessos: 200 | Comparações: 1523 | Tempo: 0.001631 segundos
+Chave: 80 | Encontrada: Sim | Acessos: 200 | Comparações: 1522 | Tempo: 0.001510 segundos
+Chave: 90 | Encontrada: Sim | Acessos: 200 | Comparações: 1522 | Tempo: 0.001554 segundos
+Chave: 100 | Encontrada: Sim | Acessos: 200 | Comparações: 1513 | Tempo: 0.001508 segundos
+Chave: 110 | Encontrada: Sim | Acessos: 200 | Comparações: 1521 | Tempo: 0.001508 segundos
+Chave: 120 | Encontrada: Sim | Acessos: 200 | Comparações: 1521 | Tempo: 0.001524 segundos
+Chave: 130 | Encontrada: Sim | Acessos: 200 | Comparações: 1520 | Tempo: 0.001574 segundos
+Chave: 140 | Encontrada: Sim | Acessos: 200 | Comparações: 1520 | Tempo: 0.001522 segundos
+Chave: 150 | Encontrada: Sim | Acessos: 200 | Comparações: 1511 | Tempo: 0.001527 segundos
+Chave: 160 | Encontrada: Sim | Acessos: 200 | Comparações: 1516 | Tempo: 0.001559 segundos
+Chave: 170 | Encontrada: Sim | Acessos: 200 | Comparações: 1516 | Tempo: 0.001534 segundos
+Chave: 180 | Encontrada: Sim | Acessos: 200 | Comparações: 1512 | Tempo: 0.001514 segundos
+Chave: 190 | Encontrada: Sim | Acessos: 200 | Comparações: 1512 | Tempo: 0.001502 segundos
+Quantidade: 200
+Situação: 1
+Média de Acessos: 200.00
+Média de Comparações: 1519.35
+Tempo Médio: 0.001546 segundos
+---------------------------
+Chave: 0 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001756 segundos
+Chave: 10 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001747 segundos
+Chave: 20 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001752 segundos
+Chave: 30 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001784 segundos
+Chave: 40 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001600 segundos
+Chave: 50 | Encontrada: Sim | Acessos: 200 | Comparações: 1515 | Tempo: 0.001558 segundos
+Chave: 60 | Encontrada: Sim | Acessos: 200 | Comparações: 1523 | Tempo: 0.001568 segundos
+Chave: 70 | Encontrada: Sim | Acessos: 200 | Comparações: 1523 | Tempo: 0.001611 segundos
+Chave: 80 | Encontrada: Sim | Acessos: 200 | Comparações: 1522 | Tempo: 0.001570 segundos
+Chave: 90 | Encontrada: Sim | Acessos: 200 | Comparações: 1522 | Tempo: 0.001536 segundos
+Chave: 100 | Encontrada: Sim | Acessos: 200 | Comparações: 1513 | Tempo: 0.001607 segundos
+Chave: 110 | Encontrada: Sim | Acessos: 200 | Comparações: 1521 | Tempo: 0.001678 segundos
+Chave: 120 | Encontrada: Sim | Acessos: 200 | Comparações: 1521 | Tempo: 0.001532 segundos
+Chave: 130 | Encontrada: Sim | Acessos: 200 | Comparações: 1520 | Tempo: 0.001547 segundos
+Chave: 140 | Encontrada: Sim | Acessos: 200 | Comparações: 1520 | Tempo: 0.001544 segundos
+Chave: 150 | Encontrada: Sim | Acessos: 200 | Comparações: 1511 | Tempo: 0.001525 segundos
+Chave: 160 | Encontrada: Sim | Acessos: 200 | Comparações: 1516 | Tempo: 0.001651 segundos
+Chave: 170 | Encontrada: Sim | Acessos: 200 | Comparações: 1516 | Tempo: 0.001708 segundos
+Chave: 180 | Encontrada: Sim | Acessos: 200 | Comparações: 1512 | Tempo: 0.001598 segundos
+Chave: 190 | Encontrada: Sim | Acessos: 200 | Comparações: 1512 | Tempo: 0.001822 segundos
+Quantidade: 200
+Situação: 2
+Média de Acessos: 200.00
+Média de Comparações: 1519.35
+Tempo Médio: 0.001635 segundos
+---------------------------
+Chave: 0 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001689 segundos
+Chave: 10 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001567 segundos
+Chave: 20 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001594 segundos
+Chave: 30 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001668 segundos
+Chave: 40 | Encontrada: Sim | Acessos: 200 | Comparações: 1524 | Tempo: 0.001619 segundos
+Chave: 50 | Encontrada: Sim | Acessos: 200 | Comparações: 1515 | Tempo: 0.001565 segundos
+Chave: 60 | Encontrada: Sim | Acessos: 200 | Comparações: 1523 | Tempo: 0.001559 segundos
+Chave: 70 | Encontrada: Sim | Acessos: 200 | Comparações: 1523 | Tempo: 0.001590 segundos
+Chave: 80 | Encontrada: Sim | Acessos: 200 | Comparações: 1522 | Tempo: 0.001492 segundos
+Chave: 90 | Encontrada: Sim | Acessos: 200 | Comparações: 1522 | Tempo: 0.001513 segundos
+Chave: 100 | Encontrada: Sim | Acessos: 200 | Comparações: 1513 | Tempo: 0.001560 segundos
+Chave: 110 | Encontrada: Sim | Acessos: 200 | Comparações: 1521 | Tempo: 0.001501 segundos
+Chave: 120 | Encontrada: Sim | Acessos: 200 | Comparações: 1521 | Tempo: 0.001576 segundos
+Chave: 130 | Encontrada: Sim | Acessos: 200 | Comparações: 1520 | Tempo: 0.001550 segundos
+Chave: 140 | Encontrada: Sim | Acessos: 200 | Comparações: 1520 | Tempo: 0.001602 segundos
+Chave: 150 | Encontrada: Sim | Acessos: 200 | Comparações: 1511 | Tempo: 0.001492 segundos
+Chave: 160 | Encontrada: Sim | Acessos: 200 | Comparações: 1516 | Tempo: 0.001490 segundos
+Chave: 170 | Encontrada: Sim | Acessos: 200 | Comparações: 1516 | Tempo: 0.001586 segundos
+Chave: 180 | Encontrada: Sim | Acessos: 200 | Comparações: 1512 | Tempo: 0.001501 segundos
+Chave: 190 | Encontrada: Sim | Acessos: 200 | Comparações: 1512 | Tempo: 0.001509 segundos
+Quantidade: 200
+Situação: 3
+Média de Acessos: 200.00
+Média de Comparações: 1519.35
+Tempo Médio: 0.001561 segundos
+---------------------------

@@ -1,0 +1,78 @@
+Chave: 0 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.197671 segundos
+Chave: 1000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.188980 segundos
+Chave: 2000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.212818 segundos
+Chave: 3000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.203787 segundos
+Chave: 4000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.188837 segundos
+Chave: 5000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.191783 segundos
+Chave: 6000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.188306 segundos
+Chave: 7000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159853 | Tempo: 0.184654 segundos
+Chave: 8000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159853 | Tempo: 0.183149 segundos
+Chave: 9000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159853 | Tempo: 0.191031 segundos
+Chave: 10000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159852 | Tempo: 0.188574 segundos
+Chave: 11000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159852 | Tempo: 0.256086 segundos
+Chave: 12000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159852 | Tempo: 0.189366 segundos
+Chave: 13000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159850 | Tempo: 0.198852 segundos
+Chave: 14000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159850 | Tempo: 0.275493 segundos
+Chave: 15000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159850 | Tempo: 0.188112 segundos
+Chave: 16000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.230744 segundos
+Chave: 17000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.181373 segundos
+Chave: 18000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.194149 segundos
+Chave: 19000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.187795 segundos
+Quantidade: 20000
+Situação: 1
+Média de Acessos: 20000.00
+Média de Comparações: 159849.15
+Tempo Médio: 0.201078 segundos
+---------------------------
+Chave: 0 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.207295 segundos
+Chave: 1000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.185407 segundos
+Chave: 2000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.187163 segundos
+Chave: 3000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.183897 segundos
+Chave: 4000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.194289 segundos
+Chave: 5000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.188928 segundos
+Chave: 6000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.205783 segundos
+Chave: 7000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159853 | Tempo: 0.186254 segundos
+Chave: 8000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159853 | Tempo: 0.186737 segundos
+Chave: 9000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159853 | Tempo: 0.184056 segundos
+Chave: 10000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159852 | Tempo: 0.194889 segundos
+Chave: 11000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159852 | Tempo: 0.186156 segundos
+Chave: 12000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159852 | Tempo: 0.218803 segundos
+Chave: 13000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159850 | Tempo: 0.193901 segundos
+Chave: 14000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159850 | Tempo: 0.217951 segundos
+Chave: 15000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159850 | Tempo: 0.186840 segundos
+Chave: 16000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.187027 segundos
+Chave: 17000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.194128 segundos
+Chave: 18000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.191551 segundos
+Chave: 19000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.186485 segundos
+Quantidade: 20000
+Situação: 2
+Média de Acessos: 20000.00
+Média de Comparações: 159849.15
+Tempo Médio: 0.193377 segundos
+---------------------------
+Chave: 0 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.208249 segundos
+Chave: 1000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.183782 segundos
+Chave: 2000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.187828 segundos
+Chave: 3000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.239291 segundos
+Chave: 4000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.188627 segundos
+Chave: 5000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.253576 segundos
+Chave: 6000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159854 | Tempo: 0.192839 segundos
+Chave: 7000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159853 | Tempo: 0.195112 segundos
+Chave: 8000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159853 | Tempo: 0.247663 segundos
+Chave: 9000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159853 | Tempo: 0.216381 segundos
+Chave: 10000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159852 | Tempo: 0.265736 segundos
+Chave: 11000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159852 | Tempo: 0.187871 segundos
+Chave: 12000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159852 | Tempo: 0.202552 segundos
+Chave: 13000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159850 | Tempo: 0.189658 segundos
+Chave: 14000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159850 | Tempo: 0.194659 segundos
+Chave: 15000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159850 | Tempo: 0.192741 segundos
+Chave: 16000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.196138 segundos
+Chave: 17000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.186064 segundos
+Chave: 18000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.189057 segundos
+Chave: 19000 | Encontrada: Sim | Acessos: 20000 | Comparações: 159835 | Tempo: 0.189197 segundos
+Quantidade: 20000
+Situação: 3
+Média de Acessos: 20000.00
+Média de Comparações: 159849.15
+Tempo Médio: 0.205351 segundos
+---------------------------
